@@ -5,7 +5,6 @@ const botaoDiminuir = document.querySelector('#contador .botoes button.diminuir'
 
 // Obtendo a tag <span>
 const span = document.querySelector('#contador span') 
-console.log(span);
 
 // 2º passo: Adicionar o evento no elemento que obtivemos
 // O addEventListener() é um método para adicionar um "escutador" de evento no elemento.
