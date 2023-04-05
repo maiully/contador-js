@@ -1,0 +1,49 @@
+body {
+    background-image: url(https://images.pexels.com/photos/114979/pexels-photo-114979.jpeg);
+}
+
+main > #contador {
+    max-width: 798px;
+    border-radius: 1rem;
+    padding: 42px 33px 54px 33px;
+    margin: 12rem auto;
+
+    background-color: #232323;
+    border: 5px solid #7200E3;
+}
+
+main > #contador > h1 {
+    font-size: 25px;
+    color: #fff;
+
+    margin-bottom: 3rem;
+}
+
+main > #contador > div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+main > #contador > div > span {
+    font-size: 80px;
+    color: #fff;
+}
+
+main > #contador > div > .botoes {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+}
+
+main > #contador > div > .botoes > button {
+    font-size: 22px;
+    color: #fff;
+
+    padding: 8px 50px;
+    margin-top: 60px;
+
+    border: 0px;
+    border-radius: 10px;
+    background-color: #7200E3;
+}
