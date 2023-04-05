@@ -11,4 +11,20 @@
     font-style: normal;
     font-weight: 700;
     font-size: 30px;
+} 
+
+.botao {
+    font-size: 22px;
+    color: #fff;
+
+    padding: 8px 50px;
+    margin-top: 60px;
+
+    border: 0px;
+    border-radius: 10px;
+    background-color: #7200E3;
+}
+
+.botao:hover {
+    background-color: #850CFF;
 }

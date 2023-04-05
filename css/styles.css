@@ -35,15 +35,3 @@ main > #contador > div > .botoes {
     justify-content: center;
     gap: 2rem;
 }
-
-main > #contador > div > .botoes > button {
-    font-size: 22px;
-    color: #fff;
-
-    padding: 8px 50px;
-    margin-top: 60px;
-
-    border: 0px;
-    border-radius: 10px;
-    background-color: #7200E3;
-}
