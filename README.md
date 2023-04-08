@@ -2,6 +2,8 @@
 ## Breve descrição
 Um projeto que envolve a manipulação do DOM e adição de eventos para a criação de um contador, com HTML, CSS e JavaScript.
 
+Observação: O projeto ainda não dispõe de responsividade.
+
 ![Tela com o título "Meu contador" centralizado à esquerda, com o número 0 no centro da tela, e com 2 botões logo abaixo, um botão contém o  texto -1, e outro botão com o texto +1.](screenshots/contador.png)
 
 ## Tecnologias utilizadas
